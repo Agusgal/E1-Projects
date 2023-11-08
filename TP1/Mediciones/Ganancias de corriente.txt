@@ -1,0 +1,23 @@
+Ganacia de corriente del sistema
+Con 2k2 load
+6,57 veces
+
+Con 24k de load
+1.28 veces
+
+Con 220k load
+0.154 veces
+
+Ganancia de corriente del amplificador
+Con 220k load y 4k7 al lado de la base´
+4.41 veces
+
+Con 24k y 4k7 al lado de la base
+37 veces
+
+Con 2k2 y 4k7 al lado de la base
+196,5 veces
+
+
+
+

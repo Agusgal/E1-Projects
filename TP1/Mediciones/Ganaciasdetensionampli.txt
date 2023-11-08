@@ -1,0 +1,17 @@
+Ganancias de tension del amplificador con 2kHz
+
+Resistencia 2.2k a la salida (load)
+10.1dB
+180 grados
+Resistencia 220k a la salida (load)
+17.88dB
+180 grados
+
+Resistencia 24k a la salida (load)
+16.8dB
+180 grados
+
+
+
+
+

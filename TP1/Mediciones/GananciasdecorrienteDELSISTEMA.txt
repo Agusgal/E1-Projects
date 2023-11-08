@@ -1,0 +1,11 @@
+Ganacia de corriente
+Con 2k2 load
+6,57 veces
+
+Con 24k de load
+1.28 veces
+
+Con 220k load
+0.154 veces
+
+

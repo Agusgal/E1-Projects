@@ -1,0 +1,8 @@
+icq 2,118mA
+2k con 2k2 load
+
+0 grados
+
+
+Vceq 
+5.26V 
